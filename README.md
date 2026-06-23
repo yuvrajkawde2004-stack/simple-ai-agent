@@ -1,2 +1,0 @@
-# simple-ai-agent
-ai
